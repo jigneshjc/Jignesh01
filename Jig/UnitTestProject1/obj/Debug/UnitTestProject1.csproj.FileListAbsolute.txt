@@ -1,0 +1,7 @@
+C:\FamilyNew\Jig\Resume\Interview\2013\2\64T\Test Code\2012\1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\FamilyNew\Jig\Resume\Interview\2013\2\64T\Test Code\2012\1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\FamilyNew\Jig\Resume\Interview\2013\2\64T\Test Code\2012\1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\FamilyNew\Jig\Resume\Interview\2013\2\64T\Test Code\2012\1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\FamilyNew\Jig\Resume\Interview\2013\2\64T\Test Code\2012\1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\FamilyNew\Jig\Resume\Interview\2013\2\64T\Test Code\2012\1\UnitTestProject1\bin\Debug\BAL.dll
+C:\FamilyNew\Jig\Resume\Interview\2013\2\64T\Test Code\2012\1\UnitTestProject1\bin\Debug\BAL.pdb
